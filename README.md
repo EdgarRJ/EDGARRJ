@@ -6,11 +6,11 @@
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=21&pause=1200&color=6C47FF&center=true&vCenter=true&width=780&lines=From+Applied+Physics+to+Commercial+AI;Automating+SMBs+with+Natural+Language;Research+in+Early+Skin+Cancer+Detection;M.Sc.+in+Computer+Science+%40+INAOE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=21&pause=1200&color=6C47FF&center=true&vCenter=true&width=780&lines=From+Applied+Physics+to+Commercial+AI;Automating+SMBs+with+Natural+Language;Research+in+Early+Skin+Cancer+Detection;M.Sc.+in+Computer+Science+%40+INAOE+%26+UGA+Grenoble" alt="Typing SVG" />
 </a>
 
 <pre>
-<code>📍 Puebla, Mexico  |  🎓 INAOE — Computer Science  |  🚀 Founder, Reservity AI</code>
+<code>📍 Puebla, Mexico  |  🎓 INAOE & UGA Grenoble — Computer Science  |  🚀 Founder, Reservity AI</code>
 </pre>
 
 <a href="https://www.reservity.ai/" target="_blank">
@@ -30,7 +30,7 @@
 
 I'm a physicist and computer scientist. I founded and lead the technical side of **Reservity AI**, a platform that automates bookings and client interactions for small and medium-sized businesses through conversational AI. My work starts from a simple premise: the models and math you study in graduate school don't have to stay there — they can become tools that any business uses every day to stop losing appointments and clients.
 
-Before founding the company, I went through applied physics, AI research applied to oncology, and I'm now pursuing my master's at **INAOE**, deepening my focus on computing and artificial intelligence. That mix — mathematical rigor plus real product — is the thread running through everything I build.
+Before founding the company, I went through applied physics, AI research applied to oncology, and I'm now pursuing graduate studies in computing and artificial intelligence at **INAOE** and **Université Grenoble Alpes (MoSIG)**. That mix — mathematical rigor plus real product — is the thread running through everything I build.
 
 ---
 
@@ -38,6 +38,7 @@ Before founding the company, I went through applied physics, AI research applied
 
 * **B.Sc. in Applied Physics** — High-level mathematical training focused on modeling complex systems: linear algebra, calculus, and stochastic methods applied directly to algorithm design.
 * **M.Sc. in progress · INAOE** — Instituto Nacional de Astrofísica, Óptica y Electrónica (National Institute of Astrophysics, Optics and Electronics). Specialization in Computer Science and Artificial Intelligence.
+* **M.Sc. in progress · MoSIG, Université Grenoble Alpes** — Master of Science in Informatics at Grenoble, a two-year international program jointly organized by Grenoble INP - Ensimag and IM²AG (UGA), taught in English. Focus on advanced informatics and artificial intelligence.
 
 ---
 
